@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "ratio": "cpp",
+        "utility": "cpp",
+        "__locale": "cpp",
+        "ios": "cpp"
+    }
+}
